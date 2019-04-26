@@ -15,3 +15,6 @@ Sub-office A is having following features:
 Sub-office B is having following features:
 1 OSPF
 2 RIP2 
+
+
+There is also one PPT attached here which shows the whole features of this project and explains the every term in the easy language.
